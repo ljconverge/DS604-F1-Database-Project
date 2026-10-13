@@ -1,0 +1,15 @@
+table,primary_key,duplicates,null_keys,valid_pk
+circuits,circuitId,0,0,True
+constructors,constructorId,0,0,True
+drivers,driverId,0,0,True
+seasons,year,0,0,True
+status,statusId,0,0,True
+races,raceId,0,0,True
+results,resultId,0,0,True
+sprint_results,resultId,0,0,True
+qualifying,qualifyId,0,0,True
+lap_times,"raceId, driverId, lap",0,0,True
+pit_stops,"raceId, driverId, stop",0,0,True
+driver_standings,driverStandingsId,0,0,True
+constructor_standings,constructorStandingsId,0,0,True
+constructor_results,constructorResultsId,0,0,True
